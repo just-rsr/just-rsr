@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranit Srivastava</h1>
-<h3 align="center">🚀 Backend Engineer | Systems Builder | Rust + Systems Enthusiast</h3>
+<h3 align="center">SoftwareEngineer | Systems Builder | Rust + Systems Enthusiast</h3>
 
 ---
 
@@ -13,14 +13,14 @@
   * 💰 **FinTrek** – Full-stack personal finance platform
 * 🧠 Strong focus on **DSA + Low-Level System Design**
 * 🏆 **HackerRank 5⭐ Problem Solver**
-* 🎯 Goal: Become a **top 1% systems engineer**
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**
-🦀 Rust | 🐍 Python | ☕ Java | ⚡ TypeScript
+☕ Java |🐍 Python |🦀 Rust |⚡ TypeScript
 
 **Core Expertise:**
 
@@ -44,7 +44,7 @@ React | Node.js | SQL | Linux | Git
 * Built full pipeline: **Lexer → Parser → AST → Bytecode → VM**
 * Supports functions, OOP, control flow, arrays
 
-### 🗄️ SparkDB
+### 🗄️ SparkDB(In Progress)
 
 > SQL-compatible database engine (Rust)
 
@@ -70,7 +70,7 @@ React | Node.js | SQL | Linux | Git
 
 ## ⚡ What Sets Me Apart
 
-* I **build compilers & databases**, not just CRUD apps
+* I **building compilers & databases**, not just CRUD apps
 * Strong blend of **problem-solving + system design**
 * Focused on **performance, internals, and scalability**
 
