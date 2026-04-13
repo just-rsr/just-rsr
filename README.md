@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranit Srivastava</h1>
-<h3 align="center">SoftwareEngineer | Systems Builder | Rust + Systems Enthusiast</h3>
+<h3 align="center">SoftwareEngineer | Systems Builder </h3>
 
 ---
 
