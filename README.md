@@ -9,7 +9,6 @@
 * ⚡ Currently engineering:
 
   * 🧩 **CruxLang** – Compiled programming language (Lexer → VM)
-  * 🗄️ **SparkDB** – SQL-compatible database engine in Rust
   * 💰 **FinTrek** – Full-stack personal finance platform
 * 🧠 Strong focus on **DSA + Low-Level System Design**
 * 🏆 **HackerRank 5⭐ Problem Solver**
